@@ -19,4 +19,5 @@ Customer segmentation is achieved through data analysis, leveraging various data
 
 # The Customer Segmentation App on Hugging Face
 The Customer Segmentation App, deployed on the Hugging Face platform, is an innovative and user-friendly solution for businesses seeking powerful customer insights.  By leveraging the power of machine learning and data analysis, they can refine their strategies, deliver exceptional customer experiences, and drive business growth. 
+At the heart of the app lies its sophisticated clustering algorithm, which automatically forms and assigns clusters to individual customers based on the details they provide. When a customer's information is entered into the app, the algorithm processes the data, identifies patterns, and groups customers into segments or clusters with similar attributes, preferences, or behaviors.
 
